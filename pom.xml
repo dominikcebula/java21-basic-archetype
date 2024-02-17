@@ -29,8 +29,8 @@
     </developers>
 
     <scm>
-        <connection>scm:git:https://github.com/dominikcebula/java21-basic-archetype.git</connection>
-        <developerConnection>scm:git:https://github.com/dominikcebula/java21-basic-archetype.git</developerConnection>
+        <connection>scm:git:git@github.com:dominikcebula/java21-basic-archetype.git</connection>
+        <developerConnection>scm:git:git@github.com:dominikcebula/java21-basic-archetype.git</developerConnection>
         <url>https://github.com/dominikcebula/java21-basic-archetype</url>
         <tag>HEAD</tag>
     </scm>
