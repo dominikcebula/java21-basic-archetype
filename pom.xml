@@ -4,7 +4,7 @@
 
     <groupId>com.dominikcebula.archetypes</groupId>
     <artifactId>java21-basic-archetype</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>maven-archetype</packaging>
 
     <name>java21-basic-archetype</name>
@@ -31,7 +31,7 @@
         <connection>scm:git:git@github.com:dominikcebula/java21-basic-archetype.git</connection>
         <developerConnection>scm:git:git@github.com:dominikcebula/java21-basic-archetype.git</developerConnection>
         <url>https://github.com/dominikcebula/java21-basic-archetype</url>
-        <tag>java21-basic-archetype-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
