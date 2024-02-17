@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.dominikcebula.archetypes</groupId>
     <artifactId>java21-basic-archetype</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>maven-archetype</packaging>
 
     <name>java21-basic-archetype</name>
@@ -32,7 +31,7 @@
         <connection>scm:git:git@github.com:dominikcebula/java21-basic-archetype.git</connection>
         <developerConnection>scm:git:git@github.com:dominikcebula/java21-basic-archetype.git</developerConnection>
         <url>https://github.com/dominikcebula/java21-basic-archetype</url>
-        <tag>HEAD</tag>
+        <tag>java21-basic-archetype-1.0</tag>
     </scm>
 
     <properties>
